@@ -23,9 +23,6 @@
         <label for="subject">Email Subject:</label><br>
         <input type="text" id="subject" name="subject" required><br><br>
 
-        <label for="message">Message:</label><br>
-        <textarea id="message" name="message" rows="4" required></textarea><br><br>
-        
         <button type="submit">Send Email</button>
     </form>
 </body>
